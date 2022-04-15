@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="Title" type="Label"]
+anchor_left = 0.5
+anchor_right = 0.5
+margin_left = -50.0
+margin_top = 110.0
+margin_right = 41.0
+margin_bottom = 124.0
+text = "BUBBLE STUMBLE PLATFORMER"
+align = 1
